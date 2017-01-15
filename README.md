@@ -1,2 +1,2 @@
 # Scripts
-For independent scripts
+This repo is for independent scripts
